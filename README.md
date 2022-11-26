@@ -11,6 +11,7 @@ $1 invested. Increased spending on public health programs is associated with a d
 mortality from preventable causes of death such as cardiovascular disease, diabetes, stroke, and
 cancer. Unfortunately, Nevada is the lowest ranked state in public health funding at $46 per
 person. With Nevada being the lowest ranked state, the people of the state are at a disadvantage.
+
 As the 4th fastest growing state (U.S. Census), Nevada needs an increase in the promotion
 of public health. This will increase the awareness of the people of this fast-growing state and
 give a better understanding of the benefits of public health and why government spending

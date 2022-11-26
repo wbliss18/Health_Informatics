@@ -1,4 +1,4 @@
-This project is a hypothetical $15 million grant proposal.
+This project is a hypothetical $5 million grant proposal.
 
 Introduction:
 
